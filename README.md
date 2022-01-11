@@ -2,9 +2,9 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/serhaturtis/ac_pitch_black_forest">
+  <a href="https://github.com/serhaturtis/AC-Pitch-Black-Forest">
     <img src="outputs/images/front.png" alt="Pitch Black Forest" width="500">
-    <img src="outputs/pcb/pcb.png" alt="Pitch Black Forest" width="500">
+    <img src="outputs/pcb/pcb.PNG" alt="Pitch Black Forest" width="500">
   </a>
 
 <h3 align="center">PITCH BLACK FOREST</h3>
