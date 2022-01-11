@@ -3,7 +3,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/serhaturtis/ac_pitch_black_forest">
-    <img src="outputs/images/front.png" alt="AFTERBURNER" width="300">
+    <img src="outputs/images/front.png" alt="Pitch Black Forest" width="500">
+    <img src="outputs/pcb/pcb.png" alt="Pitch Black Forest" width="500">
   </a>
 
 <h3 align="center">PITCH BLACK FOREST</h3>
