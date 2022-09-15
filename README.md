@@ -26,4 +26,8 @@ Because I wanted to experiment with JFETs and also have a small preamp board tha
 
 ## How?
 
-This is imported from Eagle to KiCad 6 while I was backing up my projects. So the schematic's look is a bit janky.
+Usage:
+	advctrli2c -a <i2c number> -i <input_type> -c <input_channel>
+	input types: 0: PAL, 1: NTSC
+	input channels: CVBS: 0-7, SVIDEO: 8-11
+
